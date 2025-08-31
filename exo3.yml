@@ -35,7 +35,7 @@ paths:
                 items:
                   $ref: '#/components/schemas/Task'
     delete:
-      summary: Supprime une liste de tâches
+      summary: Supprimer une liste de tâches
       requestBody:
         required: true
         content:
