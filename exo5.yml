@@ -123,5 +123,5 @@ components:
 
   securitySchemes:
     basicAuth:
-      type: http
+      type: http  
       scheme: basic
