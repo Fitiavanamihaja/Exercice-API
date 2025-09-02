@@ -67,14 +67,14 @@ paths:
 components:
   parameters:
     limit:
-      name: limit
+      name: Fandresena
       in: query
       required: false
       schema:
         type: integer
       example: 10
     q:
-      name: q
+      name: Mihaja
       in: query
       required: false
       schema:
