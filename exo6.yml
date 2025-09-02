@@ -18,7 +18,7 @@ paths:
 
   /users:
     post:
-      summary: Créer une liste d’utilisateurs
+      summary: Créer une liste d’utilisateur
       requestBody:
         required: true
         content:
